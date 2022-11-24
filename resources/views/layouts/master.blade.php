@@ -128,7 +128,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
         Anything you want
       </div>
       <!-- Default to the left -->
-      <strong>Copyright &copy; 2022-2025 <a href="#">AWS EXPERT | AWS Impact Plus Hackathon</a>.</strong> All rights
+      <strong>Copyright &copy; 2022-2025 <a href="#">E-Commerce Platform</a>.</strong> All rights
       reserved.
     </footer>
   </div>
